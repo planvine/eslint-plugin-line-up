@@ -22,20 +22,16 @@ Add `line-up` to the plugins section of your `.eslintrc` configuration file. You
 
 ```json
 {
-    "plugins": [
-        "line-up"
-    ]
+  "plugins": ["line-up"]
 }
 ```
-
-
 
 ## Configurations
 
 <!-- begin auto-generated configs list -->
 
-|    | Name          |
-| :- | :------------ |
+|     | Name          |
+| :-- | :------------ |
 | ✅  | `recommended` |
 
 <!-- end auto-generated configs list -->
