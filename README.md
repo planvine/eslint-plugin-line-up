@@ -30,8 +30,8 @@ Add `line-up` to the plugins section of your `.eslintrc` configuration file. You
 
 <!-- begin auto-generated configs list -->
 
-|     | Name          |
-| :-- | :------------ |
+|    | Name          |
+| :- | :------------ |
 | ✅  | `recommended` |
 
 <!-- end auto-generated configs list -->
